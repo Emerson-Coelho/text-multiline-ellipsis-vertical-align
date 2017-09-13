@@ -2,3 +2,6 @@
 Text Multiline Ellipsis Vertical Align
 
 Texto com várias linhas com elipses e alinha ao meio
+
+# Using CSS only
+# Usando somente CSS
